@@ -43,7 +43,7 @@ This repository satisfies the assignment requirements:
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-link>
+git clone [<MSCS532_Assignment1>](https://github.com/HARIPRASAD-001/MSCS532_Assignment1.git)
 ```
 
 2. Navigate to the project directory:
